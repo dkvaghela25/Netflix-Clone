@@ -53,6 +53,18 @@ button img {
     width: 18px;
 }
 
+select{
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+option{
+    /* font-size: 16px; */
+    color: #000000;
+}
+
 .sign-in {
     padding: 5px 15px;
     border-radius: 5px;
